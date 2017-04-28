@@ -1,5 +1,6 @@
 package com.example.etisu.opengl;
 
+import android.opengl.GLSurfaceView;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
